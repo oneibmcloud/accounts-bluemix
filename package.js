@@ -1,4 +1,5 @@
 Package.describe({
+  name: 'ibmcloud:accounts-bluemix',
   summary: "Login service for Bluemix accounts",
   version: "1.0.0",
   git: 'https://github.com/oneibmcloud/accounts-bluemix.git'
