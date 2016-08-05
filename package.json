@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/oneibmcloud/accounts-bluemix#readme",
   "dependencies": {
-    "bluemix" : "git+https://git@github.com/oneibmcloud/bluemix.git",
+    "bluemix" : "git+https://git@github.com/oneibmcloud/bluemix.git"
   }
 }
