@@ -1,0 +1,18 @@
+{
+  "name": "accounts-bluemix",
+  "version": "1.0.4",
+  "description": "Login service for Bluemix accounts",
+  "main": "bluemix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneibmcloud/accounts-bluemix.git"
+  },
+  "author": "ibmcloud",
+  "bugs": {
+    "url": "https://github.com/oneibmcloud/accounts-bluemix/issues"
+  },
+  "homepage": "https://github.com/oneibmcloud/accounts-bluemix#readme"
+}
